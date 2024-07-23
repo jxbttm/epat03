@@ -8,6 +8,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 
 import sg.edu.nus.iss.cicddemo.Controller.DataController;
 
+// Testing DataController
 @SpringBootTest
 public class DataControllerTest {
     @Autowired
